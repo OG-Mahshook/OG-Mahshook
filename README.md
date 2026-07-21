@@ -1,225 +1,324 @@
+<!-- ====================================================== -->
+<!--                 MR. UNIQUE • GITHUB PROFILE            -->
+<!-- ====================================================== -->
+
 <div align="center">
 
-# 👋 Hey, I'm Mr. Unique
+<!-- ANIMATED HEADER -->
 
-### 💻 Developer • 🎮 Game Server Engineer • ☁️ Backend & Infrastructure Enthusiast
-
-**Building game systems, backend services, automation tools, and hosting infrastructure.**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&text=MR.%20UNIQUE&fontSize=75&fontAlignY=38&desc=Developer%20%E2%80%A2%20Game%20Systems%20%E2%80%A2%20Backend%20%E2%80%A2%20Infrastructure&descAlignY=58&animation=fadeIn&fontColor=ffffff"/>
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=OG-Mahshook&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/OG-Mahshook?style=for-the-badge&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/OG-Mahshook?style=for-the-badge&logo=github)
+<!-- ANIMATED TYPING -->
+
+<a href="https://github.com/OG-Mahshook">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&random=false&width=850&lines=Hey+there!+I'm+Mr.+Unique+%F0%9F%91%8B;Game+Server+Developer+%F0%9F%8E%AE;Backend+%26+Infrastructure+Builder+%E2%9A%99%EF%B8%8F;SA-MP+%2F+Open.MP+Developer+%F0%9F%9A%80;Turning+Ideas+Into+Real+Systems+%E2%9A%A1;Always+Learning+%E2%80%A2+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+</a>
+
+<br><br>
+
+<!-- QUICK BADGES -->
+
+<img src="https://komarev.com/ghpvc/?username=OG-Mahshook&label=PROFILE+VIEWS&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/OG-Mahshook?style=for-the-badge&logo=github&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/OG-Mahshook?style=for-the-badge&logo=github&label=STARS" />
+
+<br><br>
+
+`⚡ DEVELOPER` • `🎮 GAME SYSTEMS` • `☁️ INFRASTRUCTURE` • `🤖 AUTOMATION`
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# ⚡ WHO AM I?
 
-Hi! I'm **Unique**, popularly known as **Mr. Unique**. 👋
+```yaml
+Name: Mr. Unique
+Alias: Unique
+Location: Kerala, India 🇮🇳
 
-I'm a passionate developer from **Kerala, India 🇮🇳**, focused on building reliable systems, game servers, backend applications, automation tools, and hosting infrastructure.
+Role:
+  - Developer
+  - Game Server Engineer
+  - Backend Developer
+  - Infrastructure Enthusiast
 
-I enjoy transforming ideas into real, scalable projects — from scripting complex gameplay systems to managing servers and backend infrastructure.
+Focus:
+  - Game Systems
+  - Backend Architecture
+  - Server Infrastructure
+  - Automation
 
-### 🚀 My experience includes:
-
-- 🎮 **SA-MP / Open.MP Development**
-- 🧩 **Pawn Scripting & Gameplay Systems**
-- 🤖 **Discord Bots & Automation**
-- 🌐 **Backend & Web Development**
-- ☁️ **VPS, Linux & Cloud Infrastructure**
-- 🐳 **Pterodactyl Server Management**
-- 🗄️ **MySQL & Database Systems**
-- 🎨 **Unity & Blender**
-- ⚙️ **Server Optimization & Deployment**
-
-I'm a developer of **Mallu Andreas Roleplay (MARP)** and part of the founding crew behind **Cybroxa**, where I contribute to development, infrastructure, hosting systems, automation, and technical operations.
-
-> ### ⚡ Always learning. Always building. Always improving.
-
----
-
-# 🚀 What I Do
-
-```text
-🎮 Game Development       → SA-MP / Open.MP / Unity
-
-💻 Backend Development    → JavaScript / Python / APIs
-
-🧠 Game Scripting         → Pawn / Lua / C++
-
-🤖 Automation             → Discord Bots / Server Automation
-
-☁️ Infrastructure         → Linux / VPS / Cloud / Pterodactyl
-
-🗄️ Database Systems       → MySQL / SQLite / MongoDB
-
-🎨 Creative Development   → Blender / Unity / Canva
+Current_Mission: "Build. Break. Learn. Improve. Repeat."
 ```
 
----
+Hi! I'm **Unique**, popularly known as **Mr. Unique**.
 
-# 🛠️ Tech Stack
+I'm a developer passionate about transforming ideas into **real, functional and scalable systems**.
+
+My work ranges from developing complex multiplayer gameplay systems to managing backend infrastructure, databases, Linux servers, hosting environments, and automation.
+
+I don't just like writing code.
+
+> **I like building complete systems. ⚡**
+
+---
 
 <div align="center">
 
-## 💻 Programming Languages
+# ⚡ MY DIGITAL UNIVERSE
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Pawn](https://img.shields.io/badge/PAWN-EF9B0F?style=for-the-badge&logoColor=white)
+### `CODE` → `BUILD` → `DEPLOY` → `OPTIMIZE` → `REPEAT`
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎮 GAME SYSTEMS
+
+```text
+SA-MP
+Open.MP
+Pawn Development
+Multiplayer Systems
+Roleplay Frameworks
+Server Optimization
+Game Logic
+```
+
+Building complex multiplayer systems and transforming ideas into playable experiences.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 BACKEND
+
+```text
+JavaScript
+Python
+APIs
+Database Architecture
+Authentication
+Backend Logic
+Automation
+```
+
+Creating the systems that work behind the scenes and keep everything connected.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ☁️ INFRASTRUCTURE
+
+```text
+Linux
+VPS Management
+Cloud Platforms
+Pterodactyl
+Nginx
+Server Deployment
+Performance Tuning
+```
+
+Deploying, managing and optimizing infrastructure built to stay reliable.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AUTOMATION
+
+```text
+Discord Bots
+Server Automation
+API Integration
+Deployment Tools
+Monitoring
+System Management
+```
+
+Automating repetitive processes and making systems smarter and easier to manage.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🧠 TECHNOLOGY ARSENAL
+
+### Languages • Platforms • Infrastructure • Creative Tools
 
 <br>
 
-## ☁️ Cloud & Infrastructure
+## ⚡ CORE LANGUAGES
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cpp,js,python,lua&theme=dark" />
+
+<br><br>
+
+![Pawn](https://img.shields.io/badge/PAWN-Game_Scripting-EF9B0F?style=for-the-badge)
+
+<br>
+
+## 🌐 WEB & BACKEND
+
+<img src="https://skillicons.dev/icons?i=nodejs,html,css,firebase,mysql,mongodb,sqlite&theme=dark" />
+
+<br>
+
+## ☁️ CLOUD & INFRASTRUCTURE
+
+<img src="https://skillicons.dev/icons?i=linux,cloudflare,aws,gcp,nginx,docker&theme=dark" />
+
+<br>
+
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Pterodactyl](https://img.shields.io/badge/Pterodactyl-10539F?style=for-the-badge&logoColor=white)
 
 <br>
 
-## 🗄️ Databases & Backend
+## 🎮 GAME & CREATIVE
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+<img src="https://skillicons.dev/icons?i=unity,unreal,blender&theme=dark" />
 
 <br>
 
-## 🎮 Game Development & Creative
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 <br>
 
-## 🧰 Tools & Platforms
+## 🛠️ DEVELOPMENT TOOLS
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,discord&theme=dark" />
 
 </div>
 
 ---
-
-# 🔥 Featured Work
-
-## 🎮 Mallu Andreas Roleplay — MARP
-
-**Mallu Andreas Roleplay (MARP)** is a roleplay gaming project focused on creating advanced gameplay systems and a feature-rich multiplayer experience.
-
-### ⚙️ Development Areas
-
-`Open.MP` • `Pawn` • `MySQL` • `Game Systems` • `Server Optimization` • `Backend Systems`
-
-I work on developing and maintaining systems including gameplay mechanics, server infrastructure, optimization, database integration, and other technical components.
-
----
-
-## ⚡ Cybroxa
-
-Part of the **founding crew of Cybroxa**, contributing across multiple technical areas.
-
-### 🔧 Areas of Work
-
-`Development` • `Infrastructure` • `Hosting` • `Server Management` • `Automation` • `Backend`
-
-Focused on building reliable infrastructure and systems while continuously experimenting with new technologies.
-
----
-
-# 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=OG-Mahshook&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=OG-Mahshook&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OG-Mahshook&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+# 🚀 FEATURED UNIVERSE
 
 </div>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-# 🏆 GitHub Trophies
+<h2 align="center">🎮 MARP</h2>
+
+<h3 align="center">Mallu Andreas Roleplay</h3>
+
+A multiplayer roleplay project focused on building advanced gameplay experiences and interconnected server systems.
+
+### ⚙️ Development
+
+- Open.MP Development
+- Pawn Scripting
+- MySQL Integration
+- Gameplay Systems
+- Player Systems
+- Server Optimization
+- Backend Integration
+- Infrastructure Management
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OG-Mahshook&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10)
+`OPEN.MP` `PAWN` `MYSQL` `GAME SYSTEMS`
 
 </div>
 
----
+</td>
 
-# 📈 Contribution Activity
+<td width="50%" valign="top">
+
+<h2 align="center">⚡ CYBROXA</h2>
+
+<h3 align="center">Development & Infrastructure</h3>
+
+Part of the **founding crew behind Cybroxa**, contributing across development and technical infrastructure.
+
+### ⚙️ Focus
+
+- Development
+- Hosting Infrastructure
+- Backend Systems
+- Server Management
+- Automation
+- VPS Management
+- Deployment
+- System Optimization
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OG-Mahshook&theme=tokyo-night&hide_border=true)
+`BUILD` `HOST` `AUTOMATE` `DEPLOY`
 
 </div>
 
----
+</td>
+</tr>
+</table>
 
-# 🌐 Connect With Me
+---
 
 <div align="center">
 
-### Find me around the internet 👇
-
-<br>
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m__unique_10/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mrunique-in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MAMahshook)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Disoos_Jabbar)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bbG2zYqKXR)
+# 📡 SYSTEM STATUS
 
 </div>
-
----
-
-# 💡 Current Focus
 
 ```text
-🔹 Building better game server systems
-🔹 Exploring modern backend technologies
-🔹 Improving server infrastructure & automation
-🔹 Developing Open.MP / multiplayer projects
-🔹 Learning and experimenting with new technologies
+╔══════════════════════════════════════════════════════════════╗
+║                    MR. UNIQUE SYSTEM                        ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  Developer Status       ████████████████████  ONLINE       ║
+║  Learning Mode          ████████████████████  ACTIVE       ║
+║  Building Projects      ███████████████████░  RUNNING      ║
+║  Coffee Level           ███████████████░░░░░  RECHARGE     ║
+║                                                            ║
+║  > Current Objective: Build Something Awesome             ║
+║  > Location: Kerala, India                                ║
+║  > System: READY_                                         ║
+║                                                            ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-# ☕ Support My Work
-
-If you enjoy my projects or want to support future development, you can support me here:
-
 <div align="center">
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Mahshumachu)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Mahshook)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/Unique)
+# 📊 GITHUB COMMAND CENTER
+
+### Live development statistics
+
+<br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=OG-Mahshook&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=OG-Mahshook&theme=tokyonight&hide_border=true&background=0D1117" />
+
+<br><br>
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OG-Mahshook&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=10" />
 
 </div>
 
@@ -227,16 +326,127 @@ If you enjoy my projects or want to support future development, you can support 
 
 <div align="center">
 
-## 💻 Code • 🎮 Build • 🚀 Deploy • ⚡ Repeat
+# 📈 CONTRIBUTION MATRIX
 
-### Thanks for visiting my profile! 👋
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=OG-Mahshook&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
 
-**Made with ❤️ by Mr. Unique**
+</div>
 
-⭐ **If you find my projects interesting, consider following me on GitHub!**
+---
+
+<div align="center">
+
+# 🏆 ACHIEVEMENT VAULT
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=OG-Mahshook&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=15&column=7" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍 CONTRIBUTION SNAKE
+
+### Watch my contributions get eaten 🐍
+
+<img src="https://raw.githubusercontent.com/OG-Mahshook/OG-Mahshook/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+---
+
+# 🔭 CURRENT MISSION
+
+```javascript
+const MrUnique = {
+
+    identity: "Developer",
+
+    location: "Kerala 🇮🇳",
+
+    currentlyBuilding: [
+        "Game Server Systems",
+        "Backend Applications",
+        "Automation Tools",
+        "Infrastructure"
+    ],
+
+    currentlyLearning: [
+        "Advanced Backend Architecture",
+        "Game Development",
+        "Cloud Infrastructure",
+        "New Technologies"
+    ],
+
+    philosophy: "Ideas are useless until you build them.",
+
+    status: "Always Building ⚡"
+};
+```
+
+---
+
+<div align="center">
+
+# 🌎 FIND ME ON THE INTERNET
+
+### Let's connect, collaborate and build something interesting.
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=OG-Mahshook&label=PROFILE+VIEWS&style=for-the-badge)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m__unique_10/)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mrunique-in)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MAMahshook)
+
+[![Facebook](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Disoos_Jabbar)
+[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bbG2zYqKXR)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OG-Mahshook)
+
+</div>
+
+---
+
+<div align="center">
+
+# ☕ SUPPORT MY WORK
+
+If you like what I'm building and want to support future projects:
+
+<br>
+
+[![PayPal](https://img.shields.io/badge/PAYPAL-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Mahshumachu)
+[![Patreon](https://img.shields.io/badge/PATREON-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Mahshook)
+[![Ko-Fi](https://img.shields.io/badge/KO--FI-F16061?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/Unique)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ RANDOM DEV QUOTE
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br><br>
+
+## `while(alive) { learn(); build(); improve(); }`
+
+### 💻 CODE • 🎮 CREATE • ☁️ DEPLOY • ⚡ REPEAT
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+digital+space+%E2%9A%A1;Something+new+is+always+being+built+here...;See+you+in+the+next+commit+%F0%9F%9A%80" />
+
+<br>
+
+### Made with ❤️ & ⚡ by **Mr. Unique**
+
+![Profile Views](https://komarev.com/ghpvc/?username=OG-Mahshook&label=VISITORS&style=for-the-badge)
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,11,20&section=footer"/>
 
 </div>
