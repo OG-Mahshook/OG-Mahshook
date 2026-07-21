@@ -79,19 +79,21 @@ I don't just like writing code.
 
 <td width="50%" valign="top">
 
-### 🎮 GAME SYSTEMS
+
+### 🚀 APP & GAME DEVELOPMENT
 
 ```text
-SA-MP
-Open.MP
-Pawn Development
-Multiplayer Systems
-Roleplay Frameworks
-Server Optimization
-Game Logic
+Mobile App Development
+Android Development
+Game Development
+Gameplay Systems
+UI / UX Implementation
+API Integration
+Backend Connectivity
+Performance Optimization
 ```
 
-Building complex multiplayer systems and transforming ideas into playable experiences.
+Building **modern applications and interactive game experiences**, from creative ideas and polished interfaces to powerful features and complete functional systems.
 
 </td>
 
