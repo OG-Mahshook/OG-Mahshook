@@ -13,7 +13,7 @@
 <!-- ANIMATED TYPING -->
 
 <a href="https://github.com/OG-Mahshook">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&random=false&width=850&lines=Hey+there!+I'm+Mr.+Unique+%F0%9F%91%8B;Game+Server+Developer+%F0%9F%8E%AE;Backend+%26+Infrastructure+Builder+%E2%9A%99%EF%B8%8F;SA-MP+%2F+Open.MP+Developer+%F0%9F%9A%80;Turning+Ideas+Into+Real+Systems+%E2%9A%A1;Always+Learning+%E2%80%A2+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&random=false&width=900&lines=Hey+there!+I'm+Mr.+Unique+%F0%9F%91%8B;App+Developer+%E2%80%A2+Building+Ideas+Into+Reality+%F0%9F%93%B1;Game+Developer+%E2%80%A2+Creating+Interactive+Experiences+%F0%9F%8E%AE;Backend+Developer+%E2%80%A2+Powering+What+Happens+Behind+the+Scenes+%E2%9A%99%EF%B8%8F;Infrastructure+%26+Cloud+%E2%80%A2+Building+Systems+That+Scale+%E2%98%81%EF%B8%8F;Turning+Ideas+Into+Powerful+Digital+Experiences+%E2%9A%A1;Always+Learning+%E2%80%A2+Always+Creating+%E2%80%A2+Always+Building+%F0%9F%9A%80" alt="Mr. Unique - Developer" />
 </a>
 
 <br><br>
